@@ -189,6 +189,7 @@
 
   .land {
     flex-direction: column;
+    min-height: calc(100vh - 0px);
   }
 
   .land0sec1 {
